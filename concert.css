@@ -1,0 +1,19 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: century;
+}
+header{
+    background-image: url(concert-beyonce-marseille-1024x536.jpg);
+    height: 180vh;
+    background-size: cover;
+    background-position: center;
+}
+.concert{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    transform: translate(-10%);
+}
